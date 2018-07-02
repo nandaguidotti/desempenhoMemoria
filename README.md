@@ -10,11 +10,13 @@ Repositório utilizado para os documentos do trabalho final da matéria de SO do
 - Todos os resultados dos logs no SO;
 - Todos os resultados dos logs no RTOS;
 - Todos os resultados de tela;
-- Planilha de desenvolvimento dos resultados;
-- .img do Xenomai;
-- .img do Raspian;
+- Planilha de desenvolvimento dos resultados
 - .img de outros RTOS que não funcionaram neste projeto;
 - .pdf da Monografia entrege na matéria.
+
+# Link para os Sistemas operacionais
+- .img do Xenomai(http://www.cs.ru.nl/lab/xenomai/raspberrypi.html);
+- .img do Raspian(https://www.raspberrypi.org/downloads/raspbian/);
 
 # Não contem nesse repositório
 - Aplicação memory bound utilizada (dominio privado)
