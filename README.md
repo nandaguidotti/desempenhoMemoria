@@ -11,7 +11,6 @@ Repositório utilizado para os documentos do trabalho final da matéria de SO do
 - Todos os resultados dos logs no RTOS;
 - Todos os resultados de tela;
 - Planilha de desenvolvimento dos resultados
-- .img de outros RTOS que não funcionaram neste projeto;
 - .pdf da Monografia entrege na matéria.
 
 # Link para os Sistemas operacionais
