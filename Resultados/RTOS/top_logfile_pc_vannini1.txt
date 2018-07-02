@@ -1,0 +1,202 @@
+top - 11:24:32 up 1 day,  1:24,  1 user,  load average: 0,54, 0,41, 0,29
+Tasks: 192 total,   1 running, 191 sleeping,   0 stopped,   0 zombie
+%Cpu0  :  5,9 us,  5,9 sy,  0,0 ni,  5,9 id, 82,4 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu1  :  0,0 us,  0,0 sy,  0,0 ni, 93,8 id,  6,2 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu2  :  5,9 us,  0,0 sy,  0,0 ni, 94,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu3  :  5,6 us,  5,6 sy,  0,0 ni, 88,9 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+KiB Mem :  8067132 total,  2379360 free,  3651212 used,  2036560 buff/cache
+KiB Swap:  9227464 total,  9227464 free,        0 used.  4941860 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  651 root      20      424040 114896  91076 S   6,7   1,4  16:56.83 /usr/lib/xo+
+  817 vannini   20     3100808 121276  72028 S   6,7   1,5   3:49.04 /bin/kwin_x+
+  848 vannini    9 -11 2208924  19268  15696 S   6,7   0,2   7:16.37 /usr/bin/pu+
+ 1013 vannini   20     3462736 525340 140344 S   6,7   6,5  44:15.12 /usr/lib/fi+
+ 3733 vannini   20     2384788 577956  99360 S   6,7   7,2  31:03.77 /usr/lib/fi+
+ 4133 vannini   20     2197924 398468 100096 S   6,7   4,9   9:01.07 /usr/lib/fi+
+11647 vannini   20       32284   3556   2932 R   6,7   0,0   0:00.01 top -d 1 -b
+
+top - 11:24:33 up 1 day,  1:24,  1 user,  load average: 0,54, 0,41, 0,29
+Tasks: 193 total,   1 running, 192 sleeping,   0 stopped,   0 zombie
+%Cpu0  :  5,9 us,  5,9 sy,  2,0 ni, 54,5 id, 31,7 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu1  :  5,8 us,  5,8 sy,  6,8 ni, 65,0 id, 16,5 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu2  :  9,6 us,  3,8 sy,  5,8 ni, 71,2 id,  9,6 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu3  :  6,9 us,  5,9 sy,  5,0 ni, 82,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+KiB Mem :  8067132 total,  2379360 free,  3651212 used,  2036560 buff/cache
+KiB Swap:  9227464 total,  9227464 free,        0 used.  4941860 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+11649 vannini   39  19  256,6g  70104  55372 D  22,5   0,9   0:00.23 /bin/baloo_+
+  651 root      20      424040 114896  91076 S   5,9   1,4  16:56.89 /usr/lib/xo+
+  823 vannini   20     4602240 380960 128804 S   5,9   4,7  18:15.87 /bin/plasma+
+ 1106 vannini   20     2382328 603700 125320 S   4,9   7,5  10:13.08 /usr/lib/fi+
+  817 vannini   20     3100808 121276  72028 S   3,9   1,5   3:49.08 /bin/kwin_x+
+  477 dbus      20       34036   5000   3332 S   2,9   0,1   0:35.21 /usr/bin/db+
+11604 vannini   20      674396  60308  50392 S   2,9   0,7   0:01.33 /bin/konsol+
+  675 root      20      505672  11804   9044 S   2,0   0,1   0:05.34 /usr/lib/ud+
+  848 vannini    9 -11 2208924  19268  15696 S   2,0   0,2   7:16.39 /usr/bin/pu+
+ 1013 vannini   20     3462736 525340 140344 S   2,0   6,5  44:15.14 /usr/lib/fi+
+ 1193 vannini   20     2471404 658980 103740 S   2,0   8,2  37:33.71 /usr/lib/fi+
+ 3733 vannini   20     2384788 577956  99360 S   2,0   7,2  31:03.79 /usr/lib/fi+
+11299 vannini   20      674720  60644  50748 S   2,0   0,8   0:01.18 /bin/konsole
+11647 vannini   20       32284   3556   2932 R   2,0   0,0   0:00.03 top -d 1 -b
+  832 vannini   20      371196  20324  18276 S   1,0   0,3   0:04.63 /bin/xembed+
+  851 vannini   20     1578416  54140  41588 S   1,0   0,7   0:09.33 /usr/lib/or+
+
+top - 11:24:34 up 1 day,  1:24,  1 user,  load average: 0,54, 0,41, 0,29
+Tasks: 193 total,   2 running, 191 sleeping,   0 stopped,   0 zombie
+%Cpu0  :  3,0 us,  3,0 sy,  1,0 ni, 78,0 id, 15,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu1  :  6,7 us,  3,8 sy,  1,0 ni, 20,0 id, 68,6 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu2  : 60,0 us,  7,0 sy,  0,0 ni, 33,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu3  :  2,0 us,  2,0 sy,  1,0 ni, 94,9 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+KiB Mem :  8067132 total,  2379360 free,  3651212 used,  2036560 buff/cache
+KiB Swap:  9227464 total,  9227464 free,        0 used.  4941860 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+11652 vannini   20      354520 345352   1500 R  64,4   4,3   0:00.65 ./brams
+ 9915 vannini   20      885264  85184  67064 S   5,9   1,1   0:27.12 /bin/dolphi+
+  819 vannini   39  19  256,3g 125688 117996 S   5,0   1,6   0:02.17 /bin/baloo_+
+ 1106 vannini   20     2382328 603700 125320 S   5,0   7,5  10:13.13 /usr/lib/fi+
+ 1013 vannini   20     3462736 525340 140344 S   2,0   6,5  44:15.16 /usr/lib/fi+
+  823 vannini   20     4602240 380960 128804 S   1,0   4,7  18:15.88 /bin/plasma+
+  848 vannini    9 -11 2208924  19268  15696 S   1,0   0,2   7:16.40 /usr/bin/pu+
+ 3733 vannini   20     2384788 577956  99360 S   1,0   7,2  31:03.80 /usr/lib/fi+
+11274 root      20                           I   1,0         0:00.28 [kworker/1:+
+11647 vannini   20       32284   3556   2932 R   1,0   0,0   0:00.04 top -d 1 -b
+
+top - 11:24:35 up 1 day,  1:24,  1 user,  load average: 0,54, 0,41, 0,29
+Tasks: 193 total,   2 running, 191 sleeping,   0 stopped,   0 zombie
+%Cpu0  :  6,1 us,  7,1 sy,  1,0 ni, 60,6 id, 25,3 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu1  :  2,1 us,  3,1 sy,  0,0 ni, 37,1 id, 57,7 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu2  : 81,4 us,  6,9 sy,  0,0 ni,  0,0 id, 11,8 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu3  :  3,0 us,  4,0 sy,  1,0 ni, 84,8 id,  7,1 wa,  0,0 hi,  0,0 si,  0,0 st
+KiB Mem :  8067132 total,  1962380 free,  4011036 used,  2093716 buff/cache
+KiB Swap:  9227464 total,  9227464 free,        0 used.  4581316 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+11652 vannini   20      354520 345352   1500 D  89,1   4,3   0:01.55 ./brams
+ 9915 vannini   20      885264  85184  67064 S  13,9   1,1   0:27.26 /bin/dolphi+
+  819 vannini   39  19  256,3g 125688 117996 S  10,9   1,6   0:02.28 /bin/baloo_+
+ 1106 vannini   20     2382328 603724 125320 S   3,0   7,5  10:13.16 /usr/lib/fi+
+  651 root      20      424040 114896  91076 S   1,0   1,4  16:56.90 /usr/lib/xo+
+  817 vannini   20     3100808 121276  72028 S   1,0   1,5   3:49.09 /bin/kwin_x+
+  823 vannini   20     4602240 380960 128804 S   1,0   4,7  18:15.89 /bin/plasma+
+11647 vannini   20       32284   3556   2932 R   1,0   0,0   0:00.05 top -d 1 -b
+
+top - 11:24:37 up 1 day,  1:24,  1 user,  load average: 0,73, 0,46, 0,30
+Tasks: 192 total,   2 running, 190 sleeping,   0 stopped,   0 zombie
+%Cpu0  :  3,7 us,  3,2 sy,  0,5 ni, 31,9 id, 60,1 wa,  0,0 hi,  0,5 si,  0,0 st
+%Cpu1  :  5,7 us,  4,2 sy,  1,0 ni, 32,3 id, 56,8 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu2  : 50,3 us,  4,2 sy,  0,0 ni,  0,5 id, 45,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu3  :  3,2 us,  2,7 sy,  1,1 ni, 93,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+KiB Mem :  8067132 total,  1962380 free,  4011036 used,  2093716 buff/cache
+KiB Swap:  9227464 total,  9227464 free,        0 used.  4581316 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+11652 vannini   20      354520 345352   1500 R  52,9   4,3   0:02.55 ./brams
+ 9915 vannini   20      885264  85184  67064 S   7,4   1,1   0:27.40 /bin/dolphi+
+  819 vannini   39  19  256,3g 125688 117996 S   6,3   1,6   0:02.40 /bin/baloo_+
+ 1106 vannini   20     2382328 603724 125320 S   4,2   7,5  10:13.24 /usr/lib/fi+
+ 1013 vannini   20     3462736 525340 140344 S   2,1   6,5  44:15.20 /usr/lib/fi+
+  823 vannini   20     4602240 380960 128804 S   1,6   4,7  18:15.92 /bin/plasma+
+  848 vannini    9 -11 2208924  19268  15696 S   1,6   0,2   7:16.43 /usr/bin/pu+
+  651 root      20      424040 114896  91076 S   0,5   1,4  16:56.91 /usr/lib/xo+
+ 3733 vannini   20     2384788 577956  99360 S   0,5   7,2  31:03.81 /usr/lib/fi+
+
+top - 11:24:38 up 1 day,  1:24,  1 user,  load average: 0,73, 0,46, 0,30
+Tasks: 192 total,   2 running, 190 sleeping,   0 stopped,   0 zombie
+%Cpu0  :  2,0 us,  8,9 sy,  3,0 ni, 86,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu1  :  3,0 us,  5,0 sy,  1,0 ni, 91,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu2  : 90,1 us,  9,9 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu3  :  3,0 us,  5,0 sy,  0,0 ni, 92,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+KiB Mem :  8067132 total,  1900524 free,  3995028 used,  2171580 buff/cache
+KiB Swap:  9227464 total,  9227464 free,        0 used.  4598332 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+11652 vannini   20      354520 345352   1500 R 100,0   4,3   0:03.56 ./brams
+ 9915 vannini   20      885264  85184  67064 S  12,9   1,1   0:27.53 /bin/dolphi+
+  819 vannini   39  19  256,3g 125688 117996 S  11,9   1,6   0:02.52 /bin/baloo_+
+ 1193 vannini   20     2471404 658980 103740 S   2,0   8,2  37:33.73 /usr/lib/fi+
+  651 root      20      423976 114888  91068 S   1,0   1,4  16:56.92 /usr/lib/xo+
+ 1106 vannini   20     2382328 603724 125320 S   1,0   7,5  10:13.25 /usr/lib/fi+
+
+top - 11:24:39 up 1 day,  1:24,  1 user,  load average: 0,73, 0,46, 0,30
+Tasks: 192 total,   2 running, 190 sleeping,   0 stopped,   0 zombie
+%Cpu0  :  3,9 us,  8,8 sy,  3,9 ni, 83,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu1  :  4,0 us,  3,0 sy,  2,0 ni, 91,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu2  : 95,0 us,  5,0 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu3  :  4,0 us,  3,0 sy,  2,0 ni, 91,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+KiB Mem :  8067132 total,  1900524 free,  3995028 used,  2171580 buff/cache
+KiB Swap:  9227464 total,  9227464 free,        0 used.  4598332 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+11652 vannini   20      354520 345352   1500 R 100,0   4,3   0:04.56 ./brams
+  819 vannini   39  19  256,3g 125688 117996 S  12,0   1,6   0:02.64 /bin/baloo_+
+ 9915 vannini   20      885264  85184  67064 S  12,0   1,1   0:27.65 /bin/dolphi+
+ 1106 vannini   20     2382328 603752 125320 S   4,0   7,5  10:13.29 /usr/lib/fi+
+  823 vannini   20     4602240 381064 128804 S   1,0   4,7  18:15.93 /bin/plasma+
+ 1013 vannini   20     3462736 525340 140344 S   1,0   6,5  44:15.21 /usr/lib/fi+
+ 3733 vannini   20     2384788 577956  99360 S   1,0   7,2  31:03.82 /usr/lib/fi+
+11647 vannini   20       32284   3556   2932 R   1,0   0,0   0:00.06 top -d 1 -b
+
+top - 11:24:40 up 1 day,  1:24,  1 user,  load average: 0,73, 0,46, 0,30
+Tasks: 191 total,   1 running, 190 sleeping,   0 stopped,   0 zombie
+%Cpu0  :  2,9 us,  2,9 sy,  1,0 ni, 93,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu1  :  6,8 us,  4,9 sy,  0,0 ni, 88,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu2  : 28,4 us,  3,9 sy,  0,0 ni, 67,6 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu3  :  3,9 us,  2,9 sy,  1,0 ni, 92,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+KiB Mem :  8067132 total,  1900524 free,  3995028 used,  2171580 buff/cache
+KiB Swap:  9227464 total,  9227464 free,        0 used.  4598332 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1106 vannini   20     2382328 603756 125320 S   5,9   7,5  10:13.35 /usr/lib/fi+
+ 9915 vannini   20      885264  85184  67064 S   5,0   1,1   0:27.70 /bin/dolphi+
+  819 vannini   39  19  256,3g 125688 117996 S   4,0   1,6   0:02.68 /bin/baloo_+
+ 1013 vannini   20     3462736 525340 140344 S   3,0   6,5  44:15.24 /usr/lib/fi+
+  848 vannini    9 -11 2208924  19268  15696 S   2,0   0,2   7:16.45 /usr/bin/pu+
+    8 root      20                           I   1,0         0:17.38 [rcu_preemp+
+  817 vannini   20     3100808 121276  72028 S   1,0   1,5   3:49.10 /bin/kwin_x+
+  823 vannini   20     4602240 381064 128804 S   1,0   4,7  18:15.94 /bin/plasma+
+11391 root      20                           I   1,0         0:00.06 [kworker/u8+
+11647 vannini   20       32284   3556   2932 R   1,0   0,0   0:00.07 top -d 1 -b
+
+top - 11:24:41 up 1 day,  1:24,  1 user,  load average: 0,73, 0,46, 0,30
+Tasks: 191 total,   1 running, 190 sleeping,   0 stopped,   0 zombie
+%Cpu0  :  5,0 us,  3,0 sy,  0,0 ni, 86,1 id,  5,9 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu1  :  7,9 us,  4,0 sy,  0,0 ni, 88,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu2  :  7,7 us,  1,9 sy,  0,0 ni, 90,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu3  :  9,7 us,  1,9 sy,  0,0 ni, 88,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+KiB Mem :  8067132 total,  2192400 free,  3650816 used,  2223916 buff/cache
+KiB Swap:  9227464 total,  9227464 free,        0 used.  4941812 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  651 root      20      423976 114888  91068 S   5,9   1,4  16:56.98 /usr/lib/xo+
+ 1106 vannini   20     2382328 603756 125320 S   5,9   7,5  10:13.41 /usr/lib/fi+
+  823 vannini   20     4602240 381068 128804 S   5,0   4,7  18:15.99 /bin/plasma+
+  817 vannini   20     3100808 121276  72028 S   4,0   1,5   3:49.14 /bin/kwin_x+
+ 1013 vannini   20     3462736 525340 140344 S   3,0   6,5  44:15.27 /usr/lib/fi+
+11299 vannini   20      674720  60644  50748 S   2,0   0,8   0:01.20 /bin/konsole
+11604 vannini   20      674396  60308  50392 S   2,0   0,7   0:01.35 /bin/konsol+
+  848 vannini    9 -11 2208924  19268  15696 S   1,0   0,2   7:16.46 /usr/bin/pu+
+  864 vannini   20      790268  33108  25492 S   1,0   0,4   0:07.70 /usr/bin/ka+
+  957 vannini   20      533872  37884  33520 S   1,0   0,5   0:04.98 /usr/bin/ku+
+ 3733 vannini   20     2384788 577956  99360 S   1,0   7,2  31:03.83 /usr/lib/fi+
+ 8939 root      20                           I   1,0         0:01.20 [kworker/0:+
+11647 vannini   20       32284   3556   2932 R   1,0   0,0   0:00.08 top -d 1 -b
+
+top - 11:24:42 up 1 day,  1:24,  1 user,  load average: 0,68, 0,45, 0,30
+Tasks: 191 total,   1 running, 190 sleeping,   0 stopped,   0 zombie
+%Cpu0  :  3,0 us,  1,0 sy,  0,0 ni, 96,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu1  :  5,8 us,  2,9 sy,  0,0 ni, 91,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu2  :  3,8 us,  1,9 sy,  0,0 ni, 94,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+%Cpu3  :  2,9 us,  2,9 sy,  0,0 ni, 94,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+KiB Mem :  8067132 total,  2192400 free,  3650816 used,  2223916 buff/cache
+KiB Swap:  9227464 total,  9227464 free,        0 used.  4941812 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1106 vannini   20     2382328 603760 125320 S   5,9   7,5  10:13.47 /usr/lib/fi+
+ 1013 vannini   20     3462736 525340 140344 S   2,9   6,5  44:15.30 /usr/lib/fi+
+  848 vannini    9 -11 2208924  19268  15696 S   2,0   0,2   7:16.48 /usr/bin/pu+
+ 4133 vannini   20     2197924 398468 100096 S   2,0   4,9   9:01.09 /usr/lib/fi+
+  823 vannini   20     4602240 381068 128804 S   1,0   4,7  18:16.00 /bin/plasma+
+11647 vannini   20       32284   3556   2932 R   1,0   0,0   0:00.09 top -d 1 -b
